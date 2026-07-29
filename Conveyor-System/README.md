@@ -1,6 +1,6 @@
 </> Markdown
 
-# Conveyor System
+# PLC Conveyor Control System
 
 ## Project Overview
 
