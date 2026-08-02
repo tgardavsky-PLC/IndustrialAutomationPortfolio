@@ -1,6 +1,13 @@
 # Industrial Automation Portfolio
 
-Welcome to my industrial automation portfolio.
+Welcome to my Industrial Automation Portfolio.
+
+This repository contains my personal industrial automation projects created
+to demonstrate PLC programming, Structured Text, C#, SQL and software
+architecture for industrial applications.
+
+The projects are developed in CODESYS according to IEC 61131-3 principles
+with a strong focus on clean architecture and maintainable code.
 
 ## Technologies
 
@@ -21,7 +28,7 @@ Welcome to my industrial automation portfolio.
 - Tank Control
 - Robot Cell
 
-## Contact: 
+## Contact Information: 
 
 - **Email:** tgardavsky@gmail.com
 - **Phone:** +420 603 700 216
