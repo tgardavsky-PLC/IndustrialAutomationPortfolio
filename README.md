@@ -20,3 +20,9 @@ Welcome to my industrial automation portfolio.
 - Boiler Control
 - Tank Control
 - Robot Cell
+
+## Contact: 
+
+- **Email:** tgardavsky@gmail.com
+- **Phone:** +420 603 700 216
+- **LinkedIn:** www.linkedin.com/in/tomáš-gardavský-2a56041b2
