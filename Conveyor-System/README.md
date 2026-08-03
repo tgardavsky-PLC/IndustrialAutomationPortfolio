@@ -29,7 +29,7 @@ This project demonstrates the design and implementation of an industrial conveyo
 
 ✔ Function Block Architecture
 
-⬜ CODESYS Implementation
+✔ CODESYS Implementation
 
 ⬜ SQL Integration
 
