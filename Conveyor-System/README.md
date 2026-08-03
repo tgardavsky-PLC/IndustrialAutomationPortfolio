@@ -43,6 +43,13 @@ This project demonstrates the design and implementation of an industrial conveyo
 
 ⬜ SQL Integration
 
+## Project Goals
+
+- Learn industrial PLC programming
+- Apply IEC 61131-3 principles
+- Build reusable Function Blocks
+- Create maintainable industrial software
+
 
 
 ---
