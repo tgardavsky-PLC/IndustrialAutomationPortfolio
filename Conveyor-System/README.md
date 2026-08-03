@@ -6,6 +6,12 @@
 
 This project demonstrates the design and implementation of an industrial conveyor system using PLC programming.
 
+## Screenshots
+
+### First online simulation:
+<img width="1918" height="1036" alt="04-PLC-Running" src="https://github.com/user-attachments/assets/742132c1-d122-4d2f-abd2-c5d390d388d9" />
+
+
 ### Technologies
 
 - CODESYS
