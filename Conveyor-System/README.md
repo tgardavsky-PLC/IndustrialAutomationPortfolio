@@ -31,9 +31,19 @@ This project demonstrates the design and implementation of an industrial conveyo
 
 ✔ CODESYS Implementation
 
+✔FB_Motor implemented
+
+✔Motor1 instance created
+
+✔First online simulation completed
+
+🚧 Fault handling in progress
+
+🚧 Conveyor state machine planned
+
 ⬜ SQL Integration
 
-⬜ C# Integration
+
 
 ---
 
