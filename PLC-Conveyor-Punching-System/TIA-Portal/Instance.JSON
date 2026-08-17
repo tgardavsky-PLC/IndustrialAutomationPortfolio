@@ -1,0 +1,31 @@
+[
+  {
+    "PlcName": "PLC_1",
+    "InstanceName": "STEP7 Instance_1",
+    "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088",
+    "PlcType": 2,
+    "PlcId": 0,
+    "WasPoweredOnWhenSaved": true,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": true,
+    "TimeScalingValue": 1.0,
+    "Version": "19.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "PLC_1",
+      "PlcType": 2,
+      "PlcID": 0,
+      "IsConfigured": true,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      },
+      "PlcIsInWorkspace": true
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    },
+    "PlcIsInWorkspace": true
+  }
+]

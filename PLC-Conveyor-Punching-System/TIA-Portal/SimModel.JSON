@@ -1,0 +1,369 @@
+[
+  {
+    "IsSelectedSimModel": true,
+    "Label": "SimView_1",
+    "IoContainerModel": {
+      "SimulationItemModelList": [
+        {
+          "$type": "plcsim.Simulation.IoTables.Model.IoTable, plcsim",
+          "x": 20.0,
+          "y": 20.0,
+          "z": 9,
+          "width": 900.0,
+          "Name": "SimTable_1",
+          "Id": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+          "CachedPlcInformation": {
+            "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088",
+            "PlcName": "PLC_1",
+            "InstanceName": "STEP7 Instance_1",
+            "PlcFamily": 2,
+            "PlcTypeString": "S7-1500"
+          },
+          "IoItemList": [
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "I1",
+                "Address": {
+                  "OffsetString": "17.0",
+                  "BitOffset": 136,
+                  "ByteOffset": 17,
+                  "Area": 0,
+                  "BitWidth": 1,
+                  "IsPeripheral": true,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%I17.0",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "I2",
+                "Address": {
+                  "OffsetString": "17.1",
+                  "BitOffset": 137,
+                  "ByteOffset": 17,
+                  "Area": 0,
+                  "BitWidth": 1,
+                  "IsPeripheral": true,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%I17.1",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "I3",
+                "Address": {
+                  "OffsetString": "17.2",
+                  "BitOffset": 138,
+                  "ByteOffset": 17,
+                  "Area": 0,
+                  "BitWidth": 1,
+                  "IsPeripheral": true,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%I17.2",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "I4",
+                "Address": {
+                  "OffsetString": "17.3",
+                  "BitOffset": 139,
+                  "ByteOffset": 17,
+                  "Area": 0,
+                  "BitWidth": 1,
+                  "IsPeripheral": true,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%I17.3",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Q1",
+                "Address": {
+                  "OffsetString": "4.0",
+                  "BitOffset": 32,
+                  "ByteOffset": 4,
+                  "Area": 1,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%Q4.0",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Q2",
+                "Address": {
+                  "OffsetString": "4.1",
+                  "BitOffset": 33,
+                  "ByteOffset": 4,
+                  "Area": 1,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%Q4.1",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Q3",
+                "Address": {
+                  "OffsetString": "4.2",
+                  "BitOffset": 34,
+                  "ByteOffset": 4,
+                  "Area": 1,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%Q4.2",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Q4",
+                "Address": {
+                  "OffsetString": "4.3",
+                  "BitOffset": 35,
+                  "ByteOffset": 4,
+                  "Area": 1,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%Q4.3",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Timeout_Conveyor_Forward",
+                "Address": {
+                  "OffsetString": "0.0",
+                  "BitOffset": 0,
+                  "ByteOffset": 0,
+                  "Area": 2,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%M0.0",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Timeout_Punching_Head_Down",
+                "Address": {
+                  "OffsetString": "0.1",
+                  "BitOffset": 1,
+                  "ByteOffset": 0,
+                  "Area": 2,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%M0.1",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Timeout_Punching_Head_Up",
+                "Address": {
+                  "OffsetString": "0.2",
+                  "BitOffset": 2,
+                  "ByteOffset": 0,
+                  "Area": 2,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%M0.2",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "Timeout_Conveyor_Backward",
+                "Address": {
+                  "OffsetString": "0.3",
+                  "BitOffset": 3,
+                  "ByteOffset": 0,
+                  "Area": 2,
+                  "BitWidth": 1,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": -1,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "AddressUserInput": "%M0.3",
+                  "IsReadOnly": false,
+                  "DataType": 2
+                }
+              },
+              "SelectedFormat": 4,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            },
+            {
+              "ParentId": "eb61d336-62c1-4314-9cfd-a87cdd8490c0",
+              "VariableData": {
+                "TagName": "",
+                "Address": {
+                  "OffsetString": "0",
+                  "BitOffset": 0,
+                  "ByteOffset": 0,
+                  "Area": 99,
+                  "BitWidth": 0,
+                  "IsPeripheral": false,
+                  "DataBlockNumber": 0,
+                  "IsOptimizedDb": false,
+                  "DataBlockArea": 0,
+                  "IsReadOnly": false,
+                  "DataType": 0
+                }
+              },
+              "SelectedFormat": 0,
+              "ConsistentModifyValue": "",
+              "ConsistentModifyEnabled": false,
+              "Comment": "",
+              "InstanceGuid": "00b4b2c7-6497-4a14-bee7-769d2582b088"
+            }
+          ],
+          "ColumnFilters": {
+            "NameVisible": true,
+            "AddressVisible": true,
+            "DisplayFormatVisible": true,
+            "MonitorVisible": true,
+            "ConsistentModifyVisible": false,
+            "CommentVisible": true
+          }
+        }
+      ]
+    },
+    "Version": "19.00.00.00"
+  },
+  {
+    "IsSelectedSimModel": false,
+    "Label": "SimView_2",
+    "IoContainerModel": {
+      "SimulationItemModelList": []
+    },
+    "Version": "19.00.00.00"
+  }
+]
